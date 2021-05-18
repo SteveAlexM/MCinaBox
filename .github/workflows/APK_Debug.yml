@@ -1,4 +1,4 @@
-name: APK Debug
+name: MCinaBox v0.1.5
 on:
   push:
     paths-ignore:
